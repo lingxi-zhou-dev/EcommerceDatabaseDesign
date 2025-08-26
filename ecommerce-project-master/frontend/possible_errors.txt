@@ -1,0 +1,6 @@
+******************************
+#Exception Value: expected str, bytes or os.PathLike object, not tuple	
+#Check trailing commas in the settings.py
+******************************
+#django.db.utils.OperationalError: no such table: frontend_item
+#
